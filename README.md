@@ -1,3 +1,5 @@
+> ⏳ **Legacy project (2021)** — archived and no longer maintained. Kept as part of my development journey. Current work: [elvinlab.dev](https://elvinlab.dev)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
